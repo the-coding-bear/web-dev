@@ -2,9 +2,12 @@ p{
     color: darkgreen;
 }
 h1{
-    color: dimgrey;
+    color: black;
     font-size: 40px;
 }
 header{
     height: 400px;
+}
+article{
+    width: 1000px;
 }
