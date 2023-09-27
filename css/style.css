@@ -17,3 +17,6 @@ article{
 .uppercase{
     text-transform: uppercase;
 }
+.cursive{
+    font-family: cursive;
+}
