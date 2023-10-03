@@ -1,8 +1,15 @@
 
 #Div1{
-    height: 200px;
-    width: 200px;
+    height: 75vh;
+    /*200px*/
+    width: 100vw;
+    /*200px*/
    /* background-color: rgb(255, 0, 0); */
   /* background-color: rgba(25, 120, 100, 1); */
   background-color: hsl(34, 50%, 30%);
+}
+#Div2{
+    height: 50%;
+    width: 50%;
+    background-color: cyan;
 }
