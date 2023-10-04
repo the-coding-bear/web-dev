@@ -40,3 +40,12 @@ a{
 a:hover{
     color:orange;
 }
+main{
+    border-style: dotted;
+    border-width:5px;
+    border-color:#ff6060; 
+    border-left: none; 
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+    
+}
