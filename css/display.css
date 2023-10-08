@@ -1,8 +1,10 @@
 #div1{
-    background-color: cyan;
+    background-color: red;
     height: 200px;
-    width: 200 px;
+    width: 200px;
 }
 #div2{
     background-color: blue;
+    height: 200px;
+    width: 200px;
 }
