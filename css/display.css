@@ -1,15 +1,21 @@
 #div1{
     background-color: red;
-    height: 200px;
-    width: 200px;
+    height: 1000px;
+    width: 1000px;
 }
 #div2{
     background-color: blue;
-    height: 200px;
-    width: 200px;
+    height: 1000px;
+    width: 1000px;
 }
 #div3{
     background-color: blueviolet;
-    width: 200px;
-    height: 200px;
+    width: 1000px;
+    height: 1000px;
+}
+span{
+    display: block;
+}
+div{
+    display: inline;
 }
