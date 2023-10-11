@@ -4,3 +4,9 @@
     background-color: aqua;
     position: relative;
 }
+#div2{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position:fixed;
+}
