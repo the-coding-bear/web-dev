@@ -7,4 +7,8 @@
     max-height: 230px;
     background-color: chocolate;
     border:2px solid maroon ;
+    /* overflow: hidden; */
+    /* overflow:auto; */
+    /* overflow:visible; */
+    overflow:scroll;
 }
