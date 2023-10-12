@@ -15,6 +15,11 @@
     width: 200px;
     background-color: maroon;
     position:absolute;
-    top: 20px;
-    left: 20px;
+    bottom: 20px;
+}
+#div4{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    position:sticky;
 }
