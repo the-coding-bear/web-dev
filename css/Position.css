@@ -7,6 +7,14 @@
 #div2{
     height: 200px;
     width: 200px;
-    background-color: red;
+    background-color:yellow;
     position:fixed;
+}
+#div3{
+    height: 200px;
+    width: 200px;
+    background-color: maroon;
+    position:absolute;
+    top: 20px;
+    left: 20px;
 }
