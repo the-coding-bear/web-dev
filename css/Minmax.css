@@ -1,0 +1,10 @@
+#div1{
+    height: 200px;
+    width: 50%;
+    min-width: 80px;
+    max-width: 400px;
+    min-height: 60px;
+    max-height: 230px;
+    background-color: chocolate;
+    border:2px solid maroon ;
+}
