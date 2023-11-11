@@ -1,0 +1,12 @@
+#box{
+    width: 330px;
+    height: 330px;
+    background-color: #fff;
+    display: flex;
+    margin: 100px auto;
+    border: 1px solid black;
+}
+#ball1{
+    height: 30px;
+    w
+}
