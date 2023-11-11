@@ -1,5 +1,10 @@
 #container{
     height: 50%;
     width: 50%;
-    color: lightgrey;
+    background-color: lightgrey;
+    display: flex;
+}
+#container div{
+    height: 200px;
+    width: 200px;
 }
