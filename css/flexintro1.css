@@ -3,7 +3,7 @@
     width: 75vh;
     background-color: lightgrey;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column-reverse;
 }
 #container div{
     height: 200px;
