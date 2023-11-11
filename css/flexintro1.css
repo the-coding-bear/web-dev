@@ -3,6 +3,7 @@
     width: 75vh;
     background-color: lightgrey;
     display: flex;
+    flex-direction: row-reverse;
 }
 #container div{
     height: 200px;
@@ -10,4 +11,13 @@
 }
 #div1{
     background-color: cyan;
+}
+#div2{
+    background-color: red;
+}
+#div3{
+    background-color: maroon;
+}
+#div4{
+    background-color: gray;
 }
