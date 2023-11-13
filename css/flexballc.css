@@ -5,7 +5,7 @@
     margin: 100px auto;
     border: 1px solid black;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row;
 }
 #box div{
     border-radius: 50%;
