@@ -4,7 +4,7 @@
     background-color: lightgrey;
     display: flex;
     flex-direction: row-reverse;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
 }
 #container div{
     height: 200px;
