@@ -22,24 +22,32 @@
     height: 50px;
     width: 50px;
     background-color:pink;
+    flex-grow: 1;
+    flex-shrink: 1;
 }
 #ball3{
     height: 60px;
     width: 60px;
     background-color: #91dcff;
+    flex-shrink: 1;
+    flex-grow: 2;
 }
 #ball4{
     height: 70px;
     width: 70px;
     background-color: #93ff99;
+    flex-shrink: 1;
+    flex-grow: 3;
 }
 #ball5{
     height: 80px;
     width: 80px;
     background-color: #dfff89;
+    flex-shrink: 2;
 }
 #ball6{
     height: 90px;
     width: 90px;
     background-color: #ffdf8e;
+    flex-shrink: 2;
 }
