@@ -6,7 +6,7 @@
     border: 1px solid black;
     display: flex;
     flex-direction:column ;
-    flex-wrap: wrap-reverse;
+    flex-wrap: wrap;
 }
 #box div{
     border-radius: 50%;
