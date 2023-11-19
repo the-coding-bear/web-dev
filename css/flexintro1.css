@@ -5,7 +5,7 @@
     display: flex;
     flex-direction: row-reverse;
     flex-wrap: wrap-reverse;
-    justify-content: start;
+    justify-content: end;
 }
 #container div{
     height: 200px;
