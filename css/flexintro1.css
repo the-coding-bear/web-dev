@@ -4,9 +4,8 @@
     background-color: lightgrey;
     display: flex;
     flex-direction: row-reverse;
-    flex-wrap: wrap-reverse;
-    justify-content: space-between;
-    align-items: baseline;
+    justify-content: center;
+    align-items: center;
 }
 #container div{
     height: 200px;
