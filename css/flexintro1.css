@@ -6,7 +6,7 @@
     flex-direction: row-reverse;
     flex-wrap: wrap-reverse;
     justify-content: space-between;
-    align-items: stretch;
+    align-items: baseline;
 }
 #container div{
     height: 200px;
