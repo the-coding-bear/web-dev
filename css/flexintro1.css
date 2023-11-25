@@ -2,7 +2,7 @@
     height: 75vh;
     width: 75vh;
     background-color: lightgrey;
-    display: flex;
+    display: flexbox;
     flex-direction: row-reverse;
     justify-content: space-between;
     align-items: flex-start;
